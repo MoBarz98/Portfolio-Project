@@ -1,0 +1,19 @@
+body {
+    background: url(https://m.media-amazon.com/images/M/MV5BNjk4N2Q1YzAtYWY4Yy00NGI4LWI5M2YtYmMxZmUwMzEwYWMwXkEyXkFqcGdeQXVyMjkwMzc3Mzg@._V1_UY1200_CR751,0,630,1200_AL_.jpg); 
+    image-rendering: crisp-edges;
+}
+h1 {
+    color: aliceblue;
+}
+h2 {
+    color: aliceblue;
+}
+h3 { 
+    color:chocolate;
+}
+h4 {
+    color: crimson;
+}
+h5 {
+    color: aliceblue;
+}
